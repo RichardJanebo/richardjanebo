@@ -3,7 +3,7 @@
 <p>Ola seja bem vido(a) ao meu perfil.
 Sou um desenvolvedor web, sempre em busca de novos aprendizados. Tenho grande apreço por adquirir conhecimentos novos e me dedico a alcançar o meu aprimoramento contínuo, destacando o esforço como uma das minhas virtudes mais marcantes. Gosto muito de fazer atividades físicas ao ar livre e cuidar da saúde.</p>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-janebo-aaa242242/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-janebo-aaa242242/ targrt="_blank")
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richardjanebo@gmail.com)
 
 ![Richard GitHub stats](https://github-readme-stats.vercel.app/api?username=richardjanebo&show_icons=true&theme=dracula)
