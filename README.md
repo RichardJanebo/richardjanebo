@@ -10,6 +10,7 @@ Sou um desenvolvedor Front-end, sempre em busca de novos aprendizados. Tenho gra
 
 ### Tecnologias que utilizo:
 <div>
+    <img align="center" alt='JavaS' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img align="center" alt='JavaS' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
     <img align="center" alt='Html5' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt='Css3' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
