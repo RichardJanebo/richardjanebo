@@ -1,7 +1,7 @@
 ###
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=FFFFFF&repeat=false&random=false&width=435&lines=Richard+Janebo%E2%9C%8C)](https://git.io/typing-svg)
 <p>Ola seja bem vido(a) ao meu perfil.
-Sou um desenvolvedor Front-end, sempre em busca de novos aprendizados. Tenho grande apreço por adquirir conhecimentos novos e me dedico a alcançar o meu aprimoramento contínuo, destacando o esforço como uma das minhas virtudes mais marcantes. Gosto muito de fazer atividades físicas ao ar livre e cuidar da saúde.</p>
+Sou um desenvolvedor Full stack, sempre em busca de novos aprendizados. Tenho grande apreço por adquirir conhecimentos novos e me dedico a alcançar o meu aprimoramento contínuo, destacando o esforço como uma das minhas virtudes mais marcantes. Gosto muito de fazer atividades físicas ao ar livre e cuidar da saúde.</p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-janebo-aaa242242/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richardjanebo@gmail.com)
