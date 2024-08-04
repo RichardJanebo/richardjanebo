@@ -13,6 +13,6 @@ Sou um desenvolvedor Front-end, sempre em busca de novos aprendizados. Tenho gra
     <img align="center" alt='Html5' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt='Css3' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt='JavaS' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt='Spring' height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spring.svg">
+    <img align="center" alt='Spring' height="30" width="40" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spring.svg](https://img.icons8.com/?size=100&id=90519&format=png&color=000000)">
 </div></br>
     
